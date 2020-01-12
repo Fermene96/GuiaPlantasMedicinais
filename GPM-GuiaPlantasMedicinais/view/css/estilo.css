@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
+.cor1
+{
+	background-color: #00CED1;
+	font-size: 200px;
+	color: #00CED1;
+	font-style: bold;
+}
+
+.fonte
+{
+	font-family: Impact, fantasy;
+	font-size: 30px;
+}
+
+.subtitu{
+    font-family: 'Roboto', sans-serif; font-size: 1em; color: #444;
+}
+
+.cor2
+{
+	background-color: #00CED1;
+}
+
+.cor3
+{
+	background-color: #008000;
+}
+
+.corLetra
+{
+	font-size: 20px;
+	font-family: Impact, fantasy;
+}
+
+.letra{
+    font-family: 'Roboto', sans-serif; font-size: 1em; color: #444;
+}
